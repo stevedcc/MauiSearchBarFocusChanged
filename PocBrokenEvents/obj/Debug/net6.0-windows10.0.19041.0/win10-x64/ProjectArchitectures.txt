@@ -1,0 +1,1 @@
+C:\dev\MauiPoCs\PocBrokenEvents\PocBrokenEvents\PocBrokenEvents.csproj;x64
